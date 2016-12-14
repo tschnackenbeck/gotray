@@ -1,0 +1,7 @@
+source https://www.nuget.org/api/v2
+
+group ci
+source https://www.nuget.org/api/v2
+
+nuget fake
+nuget gitversion.commandline
